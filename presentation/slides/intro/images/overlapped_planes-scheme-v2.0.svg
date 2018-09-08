@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="248.5 542.5 1325 386" width="1325pt" height="386pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.4.3 
+    <dc:date>2018-05-24 14:54:20 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" width="1325" height="386"/>
+    <g>
+      <title>Layer 1</title>
+      <rect x="249" y="543" width="1324" height="385" fill="white"/>
+      <rect x="249" y="543" width="1324" height="385" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(254 548)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="77.648">k8s cluster</tspan>
+      </text>
+      <rect x="273" y="572" width="1278" height="340" fill="white"/>
+      <rect x="273" y="572" width="1278" height="340" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(278 577)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="134.848">Overlapped planes</tspan>
+      </text>
+      <rect x="294" y="612" width="402" height="279" fill="#0174a8"/>
+      <rect x="294" y="612" width="402" height="279" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(299 617)" fill="#a5a5a5">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#a5a5a5" x="0" y="15" textLength="37.04">contr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#a5a5a5" x="36.752" y="15" textLength="134.528">ol, etcd &amp; worker 1</tspan>
+      </text>
+      <rect x="313.61134" y="646" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="313.61134" y="646" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(318.61134 654.4384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="19.958329" y="33.448" textLength="65.472">apiserver</tspan>
+      </text>
+      <rect x="313.61134" y="705" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="313.61134" y="705" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(318.61134 713.4384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="17.726329" y="33.448" textLength="69.936">scheduler</tspan>
+      </text>
+      <rect x="313.61134" y="764" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="313.61134" y="764" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(318.61134 763.2144)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="16.542329" y="33.448" textLength="37.04">contr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="53.29433" y="33.448" textLength="30.208">oller</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="82.62233" y="33.448" textLength="6.224">-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="21.27833" y="51.895996" textLength="62.832">manager</tspan>
+      </text>
+      <rect x="313.61134" y="823" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="313.61134" y="823" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(318.61134 840.6624)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="21.71833" y="15" textLength="61.952">kubectld</tspan>
+      </text>
+      <rect x="562.5163" y="646" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="562.5163" y="646" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(567.5163 663.6624)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="26.46233" y="15" textLength="52.464">kubelet</tspan>
+      </text>
+      <rect x="562.5163" y="706.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="562.5163" y="706.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(567.5163 723.7262)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="11.942329" y="15" textLength="56.32">kube-pr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="67.97433" y="15" textLength="25.472">oxy</tspan>
+      </text>
+      <rect x="438.06383" y="647.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="438.06383" y="647.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(443.06383 664.7262)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="36.83833" y="15" textLength="31.712">etcd</tspan>
+      </text>
+      <rect x="438.06383" y="706.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="438.06383" y="706.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(443.06383 714.5022)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="8.686329" y="15" textLength="88.016">cattle-node-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="32.54233" y="33.448" textLength="40.304">agent</tspan>
+      </text>
+      <rect x="711" y="612" width="402" height="279" fill="#0174a8"/>
+      <rect x="711" y="612" width="402" height="279" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(716 617)" fill="#a5a5a5">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#a5a5a5" x="0" y="15" textLength="37.04">contr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#a5a5a5" x="36.752" y="15" textLength="134.528">ol, etcd &amp; worker 2</tspan>
+      </text>
+      <rect x="730.6113" y="646" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="730.6113" y="646" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(735.6113 654.4384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="19.958329" y="33.448" textLength="65.472">apiserver</tspan>
+      </text>
+      <rect x="730.6113" y="705" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="730.6113" y="705" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(735.6113 713.4384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="17.726329" y="33.448" textLength="69.936">scheduler</tspan>
+      </text>
+      <rect x="730.6113" y="764" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="730.6113" y="764" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(735.6113 763.2144)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="16.542329" y="33.448" textLength="37.04">contr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="53.29433" y="33.448" textLength="30.208">oller</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="82.62233" y="33.448" textLength="6.224">-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="21.27833" y="51.895996" textLength="62.832">manager</tspan>
+      </text>
+      <rect x="730.6113" y="823" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="730.6113" y="823" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(735.6113 840.6624)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="21.71833" y="15" textLength="61.952">kubectld</tspan>
+      </text>
+      <rect x="979.5163" y="646" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="979.5163" y="646" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(984.5163 663.6624)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="26.46233" y="15" textLength="52.464">kubelet</tspan>
+      </text>
+      <rect x="979.5163" y="706.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="979.5163" y="706.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(984.5163 723.7262)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="11.942329" y="15" textLength="56.32">kube-pr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="67.97433" y="15" textLength="25.472">oxy</tspan>
+      </text>
+      <rect x="855.0638" y="647.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="855.0638" y="647.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(860.0638 664.7262)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="36.83833" y="15" textLength="31.712">etcd</tspan>
+      </text>
+      <rect x="855.0638" y="706.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="855.0638" y="706.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(860.0638 714.5022)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="8.686329" y="15" textLength="88.016">cattle-node-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="32.54233" y="33.448" textLength="40.304">agent</tspan>
+      </text>
+      <rect x="1128" y="612" width="402" height="285" fill="#0174a8"/>
+      <rect x="1128" y="612" width="402" height="285" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1133 617)" fill="#a5a5a5">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#a5a5a5" x="0" y="15" textLength="37.04">contr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#a5a5a5" x="36.752" y="15" textLength="134.528">ol, etcd &amp; worker 3</tspan>
+      </text>
+      <rect x="1147.6113" y="646" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1147.6113" y="646" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1152.6113 654.4384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="19.958329" y="33.448" textLength="65.472">apiserver</tspan>
+      </text>
+      <rect x="1147.6113" y="705" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1147.6113" y="705" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1152.6113 713.4384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="17.726329" y="33.448" textLength="69.936">scheduler</tspan>
+      </text>
+      <rect x="1147.6113" y="764" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1147.6113" y="764" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1152.6113 763.2144)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.94233" y="15" textLength="41.504">kube-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="16.542329" y="33.448" textLength="37.04">contr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="53.29433" y="33.448" textLength="30.208">oller</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="82.62233" y="33.448" textLength="6.224">-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="21.27833" y="51.895996" textLength="62.832">manager</tspan>
+      </text>
+      <rect x="1147.6113" y="823" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1147.6113" y="823" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1152.6113 840.6624)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="21.71833" y="15" textLength="61.952">kubectld</tspan>
+      </text>
+      <rect x="1396.5163" y="646" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1396.5163" y="646" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1401.5163 663.6624)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="26.46233" y="15" textLength="52.464">kubelet</tspan>
+      </text>
+      <rect x="1396.5163" y="706.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1396.5163" y="706.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1401.5163 723.7262)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="11.942329" y="15" textLength="56.32">kube-pr</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="67.97433" y="15" textLength="25.472">oxy</tspan>
+      </text>
+      <rect x="1272.0638" y="647.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1272.0638" y="647.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1277.0638 664.7262)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="36.83833" y="15" textLength="31.712">etcd</tspan>
+      </text>
+      <rect x="1272.0638" y="706.0638" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1272.0638" y="706.0638" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1277.0638 714.5022)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="8.686329" y="15" textLength="88.016">cattle-node-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="32.54233" y="33.448" textLength="40.304">agent</tspan>
+      </text>
+      <rect x="562.5" y="764.5" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="562.5" y="764.5" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(567.5 772.9384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="3.2063287" y="15" textLength="93.632">cattle-cluster</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="95.95833" y="15" textLength="6.224">-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="32.54233" y="33.448" textLength="40.304">agent</tspan>
+      </text>
+      <rect x="979.5" y="764.5" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="979.5" y="764.5" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(984.5 772.9384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="3.2063287" y="15" textLength="93.632">cattle-cluster</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="95.95833" y="15" textLength="6.224">-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="32.54233" y="33.448" textLength="40.304">agent</tspan>
+      </text>
+      <rect x="1396.5" y="764.5" width="115.38866" height="53.77273" fill="white"/>
+      <rect x="1396.5" y="764.5" width="115.38866" height="53.77273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1401.5 772.9384)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="3.2063287" y="15" textLength="93.632">cattle-cluster</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="95.95833" y="15" textLength="6.224">-</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="32.54233" y="33.448" textLength="40.304">agent</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
