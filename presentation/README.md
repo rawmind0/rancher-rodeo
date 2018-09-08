@@ -1,7 +1,7 @@
 
 # Rancher rodeo
 
-This repo contains markdown slides to generate Rancher rodeo 2.x presentation.
+This folder contains markdown slides to generate Rancher rodeo 2.x presentation.
 
 ## Presentation 
 
@@ -11,7 +11,7 @@ If you add new module, you need to add it at `index.html` file.
 
 More info about config at [reveal configuration][reveal-config]
 
-## Rodeo modules
+## Modules
 
 - Introdutcion
   - What is a container?
