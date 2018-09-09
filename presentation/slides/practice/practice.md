@@ -2,6 +2,19 @@
 
 ---
 
+### Goals
+
+On this practice, we'll do following tasks:
+- Install Rancher server
+- Install a k8s cluster
+- From rancher catalog, deploy wordpress service
+- Persistent storage
+  - Install NFS server
+  - Install NFS class and provisioner
+- From rancher catalog, deploy wordpress using persistent storage
+
+---
+
 ### Prerequisites
 
 * Machine with 8GB RAM, SSD – Run 1 rancher server and 3 nodes (change the RAM size)

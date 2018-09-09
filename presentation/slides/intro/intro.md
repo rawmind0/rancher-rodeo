@@ -110,6 +110,7 @@ Characteristics
 
 ---
 
+#### Kubernetes Separated planes
 Instructions
 - Create 7 hosts with >=1 CPU and >=4GB RAM.
 - Create RKE template with
